@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{0367265C-968C-46DA-A005-A523E1F21F68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoboEngine", "RoboEngine\RoboEngine.vcxproj", "{B00B099F-C4D1-425A-A644-A016315AE97D}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00B099F-C4D1-425A-A644-A016315AE97D}.Debug|x64.ActiveCfg = Debug|x64
+		{B00B099F-C4D1-425A-A644-A016315AE97D}.Debug|x64.Build.0 = Debug|x64
+		{B00B099F-C4D1-425A-A644-A016315AE97D}.Release|x64.ActiveCfg = Release|x64
+		{B00B099F-C4D1-425A-A644-A016315AE97D}.Release|x64.Build.0 = Release|x64
+		{0367265C-968C-46DA-A005-A523E1F21F68}.Debug|x64.ActiveCfg = Debug|x64
+		{0367265C-968C-46DA-A005-A523E1F21F68}.Debug|x64.Build.0 = Debug|x64
+		{0367265C-968C-46DA-A005-A523E1F21F68}.Release|x64.ActiveCfg = Release|x64
+		{0367265C-968C-46DA-A005-A523E1F21F68}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5002C393-7F8B-4279-AB26-E10E69A49CC4}
+	EndGlobalSection
+EndGlobal
